@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/dxSample/Form1.cs) (VB: [Form1.vb](./VB/dxSample/Form1.vb))
+* [Program.cs](./CS/dxSample/Program.cs) (VB: [Program.vb](./VB/dxSample/Program.vb))
+* [XtraReport1.cs](./CS/dxSample/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/dxSample/XtraReport1.vb))
+<!-- default file list end -->
 # How to conditionally suppress summary footer cell painting by using formatting rules
 
 
